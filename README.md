@@ -1,19 +1,21 @@
-# Estruturas de Dados
+# Funções
 
-Exemplos das principais estruturas de dados em Python.
+Exemplos de criação e utilização de funções em Python.
 
-## Estruturas
+## Conceitos
 
-| Estrutura            | Descrição                                                              |
-| -------------------- | ---------------------------------------------------------------------- |
-| Lista                | Coleção ordenada e mutável de elementos                                |
-| Dicionário           | Estrutura composta por pares chave-valor                               |
-| Lista de Dicionários | Combinação de listas e dicionários para armazenar dados mais complexos |
+| Conceito             | Descrição                                                      |
+| -------------------- | -------------------------------------------------------------- |
+| Funções Built-in     | Funções já disponíveis na linguagem                            |
+| Retorno              | Valor devolvido por uma função                                 |
+| Múltiplos Retornos   | Retorno de múltiplos valores e seu desempacotamento            |
+| Lambda               | Funções anônimas definidas em uma única expressão              |
+| Map                  | Aplica uma função a todos os elementos de um iterável          |
 
 ## Arquivos
 
-* `listas.py` → Demonstra a criação e manipulação de listas.
-* `dicionarios.py` → Demonstra a criação e manipulação de dicionários.
-* `lista_dicionarios.py` → Demonstra o uso de listas contendo dicionários.
-* `agenda_contatos.py` → Exemplo prático utilizando dicionários.
-* `cadastro_produtos.py` → Exemplo prático utilizando listas de dicionários.
+* `funcoes_built_in.py` → Exemplos de funções built-in.
+* `funcao_com_retorno.py` → Exemplo de função com retorno.
+* `multiplos_retornos.py` → Exemplo de retorno de múltiplos valores e de desempacotamento.
+* `lambda.py` → Exemplo de função lambda.
+* `lambda_map.py` → Exemplo de lambda em conjunto com map.
