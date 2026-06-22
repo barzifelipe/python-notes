@@ -19,3 +19,4 @@ Exemplos de criação e utilização de funções em Python.
 * `multiplos_retornos.py` → Exemplo de retorno de múltiplos valores e de desempacotamento.
 * `lambda.py` → Exemplo de função lambda.
 * `lambda_map.py` → Exemplo de lambda em conjunto com map.
+
